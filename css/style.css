@@ -170,3 +170,13 @@ footer {
     from { opacity: 0; transform: translateY(20px); }
     to { opacity: 1; transform: translateY(0); }
 }
+
+/* Descripción del perfil laboral */
+.descripcion {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #ffffff;
+    opacity: 0.95;
+    text-align: justify;
+    margin-top: 15px;
+}
